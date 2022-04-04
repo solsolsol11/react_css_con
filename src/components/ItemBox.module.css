@@ -1,0 +1,9 @@
+.boxItem {
+  text-align: center;
+  border: 2px solid blue;
+  border-radius: 20px;
+}
+
+.priceText {
+  text-decoration: line-through;
+}
